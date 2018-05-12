@@ -1,0 +1,28 @@
+_repo: General-Scott_17444
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wright, Marcus Joseph
+    birthdate: 1831
+    deathdate: 1922
+    gutenberg_agent_id: '7381'
+    url: http://www.gutenberg.org/2009/agents/7381
+    wikipedia: http://en.wikipedia.org/wiki/Marcus_Joseph_Wright
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17444'
+  lccn: 04017083
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scott, Winfield, 1786-1866'
+- !lcc 'E300'
+title: General Scott
+url: http://www.gutenberg.org/ebooks/17444
